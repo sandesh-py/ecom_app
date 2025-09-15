@@ -1,0 +1,1 @@
+print("eno boli magne")
